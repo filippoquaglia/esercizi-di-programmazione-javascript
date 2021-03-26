@@ -17,3 +17,7 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var cats = 50
+var file = 16
+var gtot = cats/file
